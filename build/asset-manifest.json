@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sidebar-menu/static/css/main.c72618a4.chunk.css",
+    "main.js": "/sidebar-menu/static/js/main.42169911.chunk.js",
+    "main.js.map": "/sidebar-menu/static/js/main.42169911.chunk.js.map",
+    "runtime-main.js": "/sidebar-menu/static/js/runtime-main.321a9b2f.js",
+    "runtime-main.js.map": "/sidebar-menu/static/js/runtime-main.321a9b2f.js.map",
+    "static/js/2.23132454.chunk.js": "/sidebar-menu/static/js/2.23132454.chunk.js",
+    "static/js/2.23132454.chunk.js.map": "/sidebar-menu/static/js/2.23132454.chunk.js.map",
+    "static/js/3.f7551c8d.chunk.js": "/sidebar-menu/static/js/3.f7551c8d.chunk.js",
+    "static/js/3.f7551c8d.chunk.js.map": "/sidebar-menu/static/js/3.f7551c8d.chunk.js.map",
+    "index.html": "/sidebar-menu/index.html",
+    "static/css/main.c72618a4.chunk.css.map": "/sidebar-menu/static/css/main.c72618a4.chunk.css.map",
+    "static/js/2.23132454.chunk.js.LICENSE.txt": "/sidebar-menu/static/js/2.23132454.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.321a9b2f.js",
+    "static/js/2.23132454.chunk.js",
+    "static/css/main.c72618a4.chunk.css",
+    "static/js/main.42169911.chunk.js"
+  ]
+}
